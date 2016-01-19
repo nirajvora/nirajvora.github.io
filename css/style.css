@@ -435,6 +435,10 @@ hr {
 	
 }
 
+text {
+    text-align: left;
+}
+
 .team-social {
 	text-align: center;
 }
